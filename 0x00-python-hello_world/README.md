@@ -1,2 +1,2 @@
-0x00-python-hello world
+python-hello world
 
