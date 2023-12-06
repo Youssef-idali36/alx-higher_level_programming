@@ -22,4 +22,4 @@ class Student:
                     ret[p] = r
             return ret
         else:
-            return self.__dict_
+            return self.__dict__
